@@ -1,0 +1,14 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\bin\Debug\146 WPF ListBox Current Matches.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\bin\Debug\146 WPF ListBox Current Matches.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.csprojAssemblyReference.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\_146_WPF_ListBox_Current_Matches.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\146 WPF ListBox Current Matches\146 WPF ListBox Current Matches\obj\Debug\146 WPF ListBox Current Matches.pdb

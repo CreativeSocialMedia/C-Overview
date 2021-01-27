@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\bin\Debug\71 Obj Oriented Prog.exe.config
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\bin\Debug\71 Obj Oriented Prog.exe
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\bin\Debug\71 Obj Oriented Prog.pdb
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\obj\Debug\71 Obj Oriented Prog.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\obj\Debug\71 Obj Oriented Prog.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\obj\Debug\71 Obj Oriented Prog.exe
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\71 Obj Oriented Prog\71 Obj Oriented Prog\obj\Debug\71 Obj Oriented Prog.pdb

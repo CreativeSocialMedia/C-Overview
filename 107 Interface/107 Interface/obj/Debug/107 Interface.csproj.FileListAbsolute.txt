@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\obj\Debug\107 Interface.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\obj\Debug\107 Interface.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\bin\Debug\107 Interface.exe.config
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\bin\Debug\107 Interface.exe
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\bin\Debug\107 Interface.pdb
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\obj\Debug\107 Interface.exe
+I:\Udemy c#\C# Lessons\C# Overview\107 Interface\107 Interface\obj\Debug\107 Interface.pdb

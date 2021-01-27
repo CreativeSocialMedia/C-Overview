@@ -1,0 +1,6 @@
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\bin\Debug\79 challenge.exe.config
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\bin\Debug\79 challenge.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\bin\Debug\79 challenge.pdb
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\obj\Debug\79 challenge.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\obj\Debug\79 challenge.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79 challenge\79 challenge\obj\Debug\79 challenge.pdb

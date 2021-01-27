@@ -1,0 +1,6 @@
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\bin\Debug\114 Writing into a text file.exe.config
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\bin\Debug\114 Writing into a text file.exe
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\bin\Debug\114 Writing into a text file.pdb
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\obj\Debug\114 Writing into a text file.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\obj\Debug\114 Writing into a text file.exe
+I:\Udemy c#\C# Lessons\C# Overview\114 Writing into a text file\114 Writing into a text file\obj\Debug\114 Writing into a text file.pdb

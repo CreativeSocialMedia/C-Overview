@@ -1,0 +1,14 @@
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.exe.config
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.exe
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.pdb
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.exe
+I:\Udemy c#\C# Lessons\78 Members Finalizers Destructors\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.pdb
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.exe.config
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.exe
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\bin\Debug\78 Members Finalizers Destructors.pdb
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.exe
+I:\Udemy c#\C# Lessons\C# Overview\78 Members Finalizers Destructors\78 Members Finalizers Destructors\obj\Debug\78 Members Finalizers Destructors.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\bin\Debug\92 Array Lists.exe.config
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\bin\Debug\92 Array Lists.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\bin\Debug\92 Array Lists.pdb
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\obj\Debug\92 Array Lists.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\obj\Debug\92 Array Lists.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\obj\Debug\92 Array Lists.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\92 Array Lists\92 Array Lists\obj\Debug\92 Array Lists.pdb

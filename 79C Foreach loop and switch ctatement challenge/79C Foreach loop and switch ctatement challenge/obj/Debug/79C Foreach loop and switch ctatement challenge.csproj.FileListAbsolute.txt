@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\bin\Debug\79C Foreach loop and switch ctatement challenge.exe.config
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\bin\Debug\79C Foreach loop and switch ctatement challenge.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\bin\Debug\79C Foreach loop and switch ctatement challenge.pdb
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\obj\Debug\79C Foreach loop and switch ctatement challenge.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\obj\Debug\79C Foreach loop and switch ctatement challenge.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\obj\Debug\79C Foreach loop and switch ctatement challenge.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79C Foreach loop and switch ctatement challenge\79C Foreach loop and switch ctatement challenge\obj\Debug\79C Foreach loop and switch ctatement challenge.pdb

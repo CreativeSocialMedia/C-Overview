@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\obj\Debug\76 Properties Part2A.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\obj\Debug\76 Properties Part2A.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\bin\Debug\76 Properties Part2A.exe.config
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\bin\Debug\76 Properties Part2A.exe
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\bin\Debug\76 Properties Part2A.pdb
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\obj\Debug\76 Properties Part2A.exe
+I:\Udemy c#\C# Lessons\75 Properties\76 Properties Part2A\76 Properties Part2A\obj\Debug\76 Properties Part2A.pdb

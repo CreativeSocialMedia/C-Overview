@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\bin\Debug\113 Read From Textfile.exe.config
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\bin\Debug\113 Read From Textfile.exe
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\bin\Debug\113 Read From Textfile.pdb
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\obj\Debug\113 Read From Textfile.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\obj\Debug\113 Read From Textfile.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\obj\Debug\113 Read From Textfile.exe
+I:\Udemy c#\C# Lessons\C# Overview\113 Read From Textfile\113 Read From Textfile\obj\Debug\113 Read From Textfile.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\obj\Debug\C79 declaring and init. arrays and length prop.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\obj\Debug\C79 declaring and init. arrays and length prop.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\bin\Debug\C79_declaring_and_init.arrays_and_length_prop.exe.config
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\bin\Debug\C79_declaring_and_init.arrays_and_length_prop.exe
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\bin\Debug\C79_declaring_and_init.arrays_and_length_prop.pdb
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\obj\Debug\C79_declaring_and_init.arrays_and_length_prop.exe
+I:\Udemy c#\C# Lessons\79 Arrays\C79 declaring and init. arrays and length prop\C79 declaring and init. arrays and length prop\obj\Debug\C79_declaring_and_init.arrays_and_length_prop.pdb

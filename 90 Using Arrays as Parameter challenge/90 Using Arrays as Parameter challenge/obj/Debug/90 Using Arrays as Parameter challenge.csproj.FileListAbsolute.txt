@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\bin\Debug\90 Using Arrays as Parameter challenge.exe.config
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\bin\Debug\90 Using Arrays as Parameter challenge.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\bin\Debug\90 Using Arrays as Parameter challenge.pdb
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\obj\Debug\90 Using Arrays as Parameter challenge.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\obj\Debug\90 Using Arrays as Parameter challenge.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\obj\Debug\90 Using Arrays as Parameter challenge.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\90 Using Arrays as Parameter challenge\90 Using Arrays as Parameter challenge\obj\Debug\90 Using Arrays as Parameter challenge.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\obj\Debug\86 MultidDimensional Array.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\obj\Debug\86 MultidDimensional Array.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\bin\Debug\86 MultidDimensional Array.exe.config
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\bin\Debug\86 MultidDimensional Array.exe
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\bin\Debug\86 MultidDimensional Array.pdb
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\obj\Debug\86 MultidDimensional Array.exe
+I:\Udemy c#\C# Lessons\86 MultiDimensional Array\86 MultidDimensional Array\86 MultidDimensional Array\obj\Debug\86 MultidDimensional Array.pdb

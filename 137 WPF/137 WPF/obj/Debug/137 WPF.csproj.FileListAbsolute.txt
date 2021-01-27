@@ -1,0 +1,14 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\bin\Debug\137 WPF.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\bin\Debug\137 WPF.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.csprojAssemblyReference.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\_137_WPF.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\137 WPF\137 WPF\obj\Debug\137 WPF.pdb

@@ -1,0 +1,14 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\bin\Debug\140 Routed Events DirectBubblingTunneling.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\bin\Debug\140 Routed Events DirectBubblingTunneling.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.csprojAssemblyReference.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\_140_Routed_Events_DirectBubblingTunneling.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\140 Routed Events DirectBubblingTunneling\140 Routed Events DirectBubblingTunneling\obj\Debug\140 Routed Events DirectBubblingTunneling.pdb

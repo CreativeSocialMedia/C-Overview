@@ -1,0 +1,14 @@
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\bin\Debug\103 inherritence.exe.config
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\bin\Debug\103 inherritence.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\bin\Debug\103 inherritence.pdb
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\obj\Debug\103 inherritence.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\obj\Debug\103 inherritence.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\obj\Debug\103 inherritence.exe
+I:\Udemy c#\C# Lessons\90 Using Arrays as Parameters\103 inherritence\103 inherritence\obj\Debug\103 inherritence.pdb
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\obj\Debug\103 inherritence.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\obj\Debug\103 inherritence.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\obj\Debug\103 inherritence.exe
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\obj\Debug\103 inherritence.pdb
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\bin\Debug\103 inherritence.exe.config
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\bin\Debug\103 inherritence.exe
+I:\Udemy c#\C# Lessons\103 Inheritence\103 inherritence\bin\Debug\103 inherritence.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\obj\Debug\89 - Jagged Array challenge.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\obj\Debug\89 - Jagged Array challenge.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\bin\Debug\89 - Jagged Array challenge.exe.config
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\bin\Debug\89 - Jagged Array challenge.exe
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\bin\Debug\89 - Jagged Array challenge.pdb
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\obj\Debug\89 - Jagged Array challenge.exe
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\89 - Jagged Array challenge\89 - Jagged Array challenge\obj\Debug\89 - Jagged Array challenge.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\bin\Debug\75 Properties part 2A Setters and Getters.exe.config
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\bin\Debug\75 Properties part 2A Setters and Getters.exe
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\bin\Debug\75 Properties part 2A Setters and Getters.pdb
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\obj\Debug\75 Properties part 2A Setters and Getters.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\obj\Debug\75 Properties part 2A Setters and Getters.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\obj\Debug\75 Properties part 2A Setters and Getters.exe
+I:\Udemy c#\C# Lessons\75 Properties\75 Properties part 2A Setters and Getters\75 Properties part 2A Setters and Getters\obj\Debug\75 Properties part 2A Setters and Getters.pdb

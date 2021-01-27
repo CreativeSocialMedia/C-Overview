@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\bin\Debug\88 Jagged Arrays.exe.config
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\bin\Debug\88 Jagged Arrays.exe
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\bin\Debug\88 Jagged Arrays.pdb
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\obj\Debug\88 Jagged Arrays.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\obj\Debug\88 Jagged Arrays.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\obj\Debug\88 Jagged Arrays.exe
+I:\Udemy c#\C# Lessons\88 Jagged Arrays\88 Jagged Arrays\88 Jagged Arrays\obj\Debug\88 Jagged Arrays.pdb

@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\bin\Debug\79B For Each Loop and arrays.exe.config
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\bin\Debug\79B For Each Loop and arrays.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\bin\Debug\79B For Each Loop and arrays.pdb
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\obj\Debug\79B For Each Loop and arrays.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\obj\Debug\79B For Each Loop and arrays.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\obj\Debug\79B For Each Loop and arrays.exe
+I:\Udemy c#\C# Lessons\79 Arrays\79B For Each Loop and arrays\79B For Each Loop and arrays\obj\Debug\79B For Each Loop and arrays.pdb

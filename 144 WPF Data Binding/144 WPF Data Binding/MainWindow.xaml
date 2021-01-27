@@ -1,0 +1,33 @@
+﻿<Window x:Class="_144_WPF_Data_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_144_WPF_Data_Binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!-- 
+    4 Modes of Data Binding
+    
+    1. Binding Target: <- OneWay Bnding Source
+    2. Binding Target: <- TwoWay Binding -> Binding Source
+    3. Binding Target OneWaySource -> Binding Source
+    4. Binding Target: <___ OneTIme Binding Source - done in constructor so only once during initialization
+    
+    -->
+    <StackPanel>
+        <!-- ONE WAY:
+        TextBox is the Target-->
+        <TextBox Name="MyTextBox1" Width="100" Margin="50"  Text="{Binding ElementName=MySlider1, Path=Value, Mode=OneWay}"></TextBox>
+        <!-- Slider is the Data Bidning Source-->
+        <Slider IsSnapToTickEnabled="True"  Name="MySlider1" Minimum="0" Maximum="100"></Slider>
+
+        <!-- Two WAY:
+        TextBox is the Target-->
+        <TextBox Name="MyTextBox2" Width="100" Margin="50"  Text="{Binding ElementName=MySlider2, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <!-- Slider is the Data Bidning Source-->
+        <Slider IsSnapToTickEnabled="True"  Name="MySlider2" Minimum="0" Maximum="100"></Slider>
+
+    </StackPanel>
+</Window>

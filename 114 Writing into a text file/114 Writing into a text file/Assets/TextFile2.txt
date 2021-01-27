@@ -1,0 +1,6 @@
+First line
+secone line
+third Line
+250
+20000
+380

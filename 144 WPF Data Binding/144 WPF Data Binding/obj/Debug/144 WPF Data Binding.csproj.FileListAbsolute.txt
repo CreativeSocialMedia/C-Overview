@@ -1,0 +1,13 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\bin\Debug\144 WPF Data Binding.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\bin\Debug\144 WPF Data Binding.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\_144_WPF_Data_Binding.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\144 WPF Data Binding\144 WPF Data Binding\obj\Debug\144 WPF Data Binding.pdb

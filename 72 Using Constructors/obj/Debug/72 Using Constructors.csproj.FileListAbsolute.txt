@@ -1,0 +1,14 @@
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\bin\Debug\72 Using Constructors.exe.config
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\bin\Debug\72 Using Constructors.exe
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\bin\Debug\72 Using Constructors.pdb
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\obj\Debug\72 Using Constructors.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\obj\Debug\72 Using Constructors.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\obj\Debug\72 Using Constructors.exe
+I:\Udemy c#\C# Lessons\71 Obj Oriented Prog\72 Using Constructors\72 Using Constructors\obj\Debug\72 Using Constructors.pdb
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\bin\Debug\72 Using Constructors.exe.config
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\bin\Debug\72 Using Constructors.exe
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\bin\Debug\72 Using Constructors.pdb
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\obj\Debug\72 Using Constructors.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\obj\Debug\72 Using Constructors.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\obj\Debug\72 Using Constructors.exe
+I:\Udemy c#\C# Lessons\72 using constructors\72 Using Constructors\obj\Debug\72 Using Constructors.pdb

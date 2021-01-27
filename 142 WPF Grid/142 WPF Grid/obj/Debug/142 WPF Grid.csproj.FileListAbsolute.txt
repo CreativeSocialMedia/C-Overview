@@ -1,0 +1,14 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\bin\Debug\142 WPF Grid.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\bin\Debug\142 WPF Grid.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.csprojAssemblyReference.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\_142_WPF_Grid.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\142 WPF Grid\142 WPF Grid\obj\Debug\142 WPF Grid.pdb

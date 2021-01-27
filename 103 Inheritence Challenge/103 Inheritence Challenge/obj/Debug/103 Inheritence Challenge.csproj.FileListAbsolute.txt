@@ -1,0 +1,7 @@
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\obj\Debug\103 Inheritence Challenge.csprojAssemblyReference.cache
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\obj\Debug\103 Inheritence Challenge.csproj.CoreCompileInputs.cache
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\bin\Debug\103 Inheritence Challenge.exe.config
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\bin\Debug\103 Inheritence Challenge.exe
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\bin\Debug\103 Inheritence Challenge.pdb
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\obj\Debug\103 Inheritence Challenge.exe
+I:\Udemy c#\C# Lessons\103 Inheritence\103 Inheritence Challenge\103 Inheritence Challenge\obj\Debug\103 Inheritence Challenge.pdb

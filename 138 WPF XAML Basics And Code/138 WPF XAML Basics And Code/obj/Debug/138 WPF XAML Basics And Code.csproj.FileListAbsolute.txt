@@ -1,0 +1,14 @@
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\bin\Debug\138 WPF XAML Basics And Code.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\bin\Debug\138 WPF XAML Basics And Code.pdb
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.csprojAssemblyReference.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\MainWindow.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\App.g.cs
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code_MarkupCompile.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code_MarkupCompile.lref
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\MainWindow.baml
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.g.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\_138_WPF_XAML_Basics_And_Code.Properties.Resources.resources
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.csproj.GenerateResource.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.csproj.CoreCompileInputs.cache
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.exe
+I:\Classes 2020\Udemy c#\C# Lessons\C# Overview\138 WPF XAML Basics And Code\138 WPF XAML Basics And Code\obj\Debug\138 WPF XAML Basics And Code.pdb
